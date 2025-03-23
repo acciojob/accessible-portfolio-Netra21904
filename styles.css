@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
